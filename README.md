@@ -16,39 +16,39 @@ Implementar operações matemáticas como adição, subtração, multiplicação
 
 🛠Tecnologias Utilizadas:
 
-HTML5 → Estruturação da página.
+HTML → Estruturação da página.
 
-CSS3 → Estilização e responsividade.
+CSS → Estilização e responsividade.
 
 JavaScript (ES6) → Lógica da calculadora e manipulação do DOM.
 
-Live Server → Ferramenta para testar em tempo real.
+Live Server → Ferramenta para detecção de Bugs utilizando ferramentas como o EsLinter e Breakpoints evitando Loops nas operações e Funções(Function)Javascript para obtenção de logs em tempo real.
 
 Estrutura do Projeto.
 
-📂 Calculadora. ├── 📄 index.html # Página principal ├── 📄 styles.css # Estilização da interface ├── 📄 script.js # Lógica da calculadora └── 📄 README.md # Documentação do projeto
+📂 Calculadora. ├── 📄 index.html # Página principal ├── 📄 style.css # Estilização da interface ├─  calculadora.teste.js # Testes Unitários ├── 📄 script.js # Lógica da calculadora └── 📄 README.md # Documentação do projeto
 
 Funcionalidades Implementadas:
 
-Adição, Subtração, Multiplicação e Divisão Interface responsiva e amigável Validação de entrada para evitar erros Botão "Limpar" para reiniciar os cálculos
+Adição, Subtração, Multiplicação e Divisão Interface responsiva e amigável. Validação de entrada para evitar erros Botão "Limpar" para reiniciar os cálculos
 
 Funcionalidades futuras:
 
 Implementação de operações avançadas (potenciação, raiz quadrada, porcentagem). Histórico de cálculos realizados. Melhorias na interface para acessibilidade.
 
-Layout e Interface:
+Layout e Interface UX:
 
 A interface da calculadora foi desenvolvida com um design simples, utilizando uma paleta de cores que proporciona boa legibilidade e contraste. Abaixo está uma prévia do layout:
 
-🖼Imagem da interface (futuramente adicionar um print da calculadora rodando no navegador)
+🖼Imagem da interface.
 
 Como Executar o Projeto Na Sua IDE de Preferencia , eu utilizo o Visual Studio Code para melhor desempenho da linguagens utilizadas:
 
-Clone o repositório:
+Faça um Fork do Projeto utilizando o comando GIT:
 
 git clone https://github.com/seu-usuario/calculadora.git
 
-Abra o arquivo index.html em um navegador ou use a extensão Live Server no VS Code.
+Abra o arquivo index.html em um navegador de sua prefêrencia ou use a extensão Live Server (Instale na Store do Visual Studio Code) no VS Code.
 
 3️⃣ Interaja com os botões da calculadora para realizar cálculos.
 
