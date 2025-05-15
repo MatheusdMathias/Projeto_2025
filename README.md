@@ -14,7 +14,7 @@ Objetivos Específicos
 
 Implementar operações matemáticas como adição, subtração, multiplicação e divisão.✔ Adicionar funcionalidades avançadas como potenciação, raiz quadrada e porcentagem.✔ Criar uma interface amigável e responsiva para facilitar o uso.✔ Implementar testes automatizados para garantir a confiabilidade da ferramenta.
 
-🛠Tecnologias Utilizadas:
+Tecnologias Utilizadas:
 
 HTML → Estruturação da página.
 
@@ -40,7 +40,7 @@ Layout e Interface UX:
 
 A interface da calculadora foi desenvolvida com um design simples, utilizando uma paleta de cores que proporciona boa legibilidade e contraste. Abaixo está uma prévia do layout:
 
-🖼Imagem da interface.
+Imagem da interface.
 
 Como Executar o Projeto Na Sua IDE de Preferencia , eu utilizo o Visual Studio Code para melhor desempenho da linguagens utilizadas:
 
@@ -50,13 +50,13 @@ git clone https://github.com/seu-usuario/calculadora.git
 
 Abra o arquivo index.html em um navegador de sua prefêrencia ou use a extensão Live Server (Instale na Store do Visual Studio Code) no VS Code.
 
-3️⃣ Interaja com os botões da calculadora para realizar cálculos.
+Interaja com os botões da calculadora para realizar cálculos.
 
-📌 Desenvolvedor:
+Desenvolvedor:
 
-👨‍💻 Matheus de Oliveira Mathias📍 RA: 322202184📍 Universidade Nove de Julho (UNINOVE)
+👨‍💻 Matheus de Oliveira Mathias - RA: 322202184 - Universidade Nove de Julho (UNINOVE)
 
 
-📢 Agradecimentos:
+Agradecimentos:
 
 Agradeço ao Prof. Edson Melo de Souza pela orientação neste projeto acadêmico e a todos os colegas que contribuíram com ideias e sugestões! 🙌
