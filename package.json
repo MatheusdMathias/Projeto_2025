@@ -1,0 +1,12 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora com testes automatizados usando Jest",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
