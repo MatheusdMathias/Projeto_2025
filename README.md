@@ -56,9 +56,6 @@ git clone https://github.com/seu-usuario/calculadora.git
 
 👨‍💻 Matheus de Oliveira Mathias📍 RA: 322202184📍 Universidade Nove de Julho (UNINOVE)
 
-📜 Licença
-
-Este projeto está licenciado sob a MIT License - Veja o arquivo LICENSE para mais detalhes.
 
 📢 Agradecimentos:
 
