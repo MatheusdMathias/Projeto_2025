@@ -54,9 +54,9 @@ Interaja com os botões da calculadora para realizar cálculos.
 
 Desenvolvedor:
 
-👨‍💻 Matheus de Oliveira Mathias - RA: 322202184 - Universidade Nove de Julho (UNINOVE)
+👨‍💻Matheus de Oliveira Mathias - RA: 322202184 - Universidade Nove de Julho (UNINOVE)
 
 
 Agradecimentos:
 
-Agradeço ao Prof. Edson Melo de Souza pela orientação neste projeto acadêmico e a todos os colegas que contribuíram com ideias e sugestões! 🙌
+Agradeço ao Prof. Edson Melo de Souza pela orientação neste projeto acadêmico.
